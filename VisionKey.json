@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "real-browser-410021",
+  "private_key_id": "42e454e1b4b0901121d1df1f0024363a12b30faf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzibXPO25Mkq5H\nj3NhU2bjiWwO/sYO+8sEUG8G/lFZtWqMPr6XiIWYRC2dnULxVBVgp+3JRMJFh6LY\nS0n64VAIJDsoNVD/K4T4Iv3qw2mSJXClTeExdeTQPRvZfqCHzkAMc3njYOx1Srva\nFiIQRopNCOz/0A5DsTcmTHKf2sJo9xZmiLuM0hrncVfOZHo7kIRwF8Z5rVm/U/l2\npshHEYC/DIULJjAN6S7xb/I2gexATx8gg7L8Kv+Kk83SN+oJ+fukm1NctbPdddUI\nc6P9dbAe6PQzVeGifoOwJTmQ1V5GzOMNPFn2D8vJpNTV7BYV2F6FHUG/r923XLym\ny8FrvlP5AgMBAAECggEACi931wfiHAn+RSUIQK9AmQwEy1z804DJZbdCdT0cVGCM\naORuX55pJdhIVjbDw3kntVIRlWeHNfaZ8Hdk/QynQ676hC9yJufLJWCm0xi+9oGV\nQGuIqQutLXsqB069wLacv5gVhCbNg2H4AklbKV03H2OwPlsJVCHLpSqVHiiE+vth\nDy0OZu2Clva+dax1mHcpwA4pcw3RzNQx1AYDiF8UFi2RJeKHGFZgLVEOsXyTb/Er\nbvoGFZp5KR6uwFLs+yUjV/kjNKYuulTGwilzEw0suM2lGRFp3BamgA+8GPA0QFsP\n5gZK3Cq7sdFG8tA2A1Nlqc1E/cbfA7RJRz2QXsbpAQKBgQDzLdhVKk0eIasRrYiG\n9F45uaHyjq/0XVUzD7N/E2fXZhWAeVrckGCvaj+WSzWUikmArOc5vxar3JB4cRgP\n/PjLUK4tItHJT7L6rKmphbZQcYdoVraX++3XvqZPdHiOrOY1KmI6ZO0XX+BmQYPM\nt3XHWMketIHhnot3cX42+5lcyQKBgQC9AOjAcn/s50iV+HKEFW50oUJb4+EbY4Kn\nilovST2qo1nwXTZCFFxCIZzfZKtvf7kYlsOlvnyoQr+6QBi9II0RIRQtZtNL4NVe\nWzlMpSyXlqJGrt4oFYXjzdAmyztEEGCr4iZ9lxXFCbe1xM0IQ7XWBftCpQJqFhyH\neoMi25tFsQKBgDF76sGp0feHsl/uiBGuOF5Wv/Wzw2pec6/oSgZZ1I+oXke+ahbn\n6kTHwhi7RTPsz/g3NvYxRFPElkFsAhF+0MHOsSLOKxJj/W+1IvE0HF1SPNOmkZFr\n2oJEcWNJuB6QYGgBL+viDbzr7aXhPwixbG4cSxDMeoGG2ap8lcpqeFLBAoGAbr4Z\noql0S1s5LKZmcv4bujrCpxTe0S19YK2wKgTAHTuZdz0mjZFgfV80i7BwwuQTkFTG\nTldOs0hpDrh/xlFMVr0LFY8qP0t9ucu5xy8A8dFRRBkyEkqKKPBvBkwObdMq0Yux\nAeWE2+7Vtauadz01TjIzBtmokIBkNv2R2NrUIAECgYEAgYjfT0govotZ/1pjmzjh\n72O6qQ1tjfEri0ky8/BrJUZ980Jx8r+UimAsQyu+ZKK/RW77h0NKxXCFlYkxKXt3\n7NOq8M8OL+Srlc+n7asft0iS1jNEL6tJIdcPqywGt1RO+QbLGa1ASRemcMJAhFoa\n9eE4efNJA7eWqZYCMX7d1ao=\n-----END PRIVATE KEY-----\n",
+  "client_email": "realbrowser-cloudvision-api@real-browser-410021.iam.gserviceaccount.com",
+  "client_id": "101459273532427277244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/realbrowser-cloudvision-api%40real-browser-410021.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
